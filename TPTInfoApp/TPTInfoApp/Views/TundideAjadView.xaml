@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPTInfoApp.Views.TundideAjadView"
+             xmlns:viewModels="clr-namespace:TPTInfoApp.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <viewModels:TundideAjad/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <Image Source="https://puu.sh/AqOIQ.png"></Image>
+    </ContentPage.Content>
+
+</ContentPage>

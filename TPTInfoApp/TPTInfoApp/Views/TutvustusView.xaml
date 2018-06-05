@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPTInfoApp.Views.TutvustusView"
+             xmlns:viewModels="clr-namespace:TPTInfoApp.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <viewModels:Tutvustus/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <WebView Source="https://www.tptlive.ee/kool/pohivaartused/"></WebView>
+    </ContentPage.Content>
+
+</ContentPage>
