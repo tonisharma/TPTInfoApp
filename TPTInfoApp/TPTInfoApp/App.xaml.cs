@@ -2,6 +2,9 @@
 
 using TPTInfoApp.Views;
 using Xamarin.Forms;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace TPTInfoApp
 {
@@ -18,8 +21,11 @@ namespace TPTInfoApp
 
 		protected override void OnStart ()
 		{
-			// Handle when your app starts
-		}
+            AppCenter.Start("android=d54e8bc1-b128-4411-b66a-579202773998;" +
+                  "uwp={Your UWP App secret here};" +
+                  "ios={Your iOS App secret here}",
+                  typeof(Analytics), typeof(Crashes));
+        }
 
 		protected override void OnSleep ()
 		{

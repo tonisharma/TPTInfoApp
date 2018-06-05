@@ -13,7 +13,7 @@
 namespace TPTInfoApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Harma\\source\\repos\\TPTInfoApp\\TPTInfoApp\\TPTInfoApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Joose\\Desktop\\TPTInfoApp-master\\TPTInfoApp\\TPTInfoApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

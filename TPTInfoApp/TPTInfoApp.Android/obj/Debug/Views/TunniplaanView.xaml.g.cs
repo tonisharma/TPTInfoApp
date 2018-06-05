@@ -13,8 +13,8 @@
 namespace TPTInfoApp.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Harma\\source\\repos\\TPTInfoApp\\TPTInfoApp\\TPTInfoApp\\Views\\TunniplaanView" +
-        ".xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Joose\\Desktop\\TPTInfoApp-master\\TPTInfoApp\\TPTInfoApp\\Views\\TunniplaanVi" +
+        "ew.xaml")]
     public partial class TunniplaanView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

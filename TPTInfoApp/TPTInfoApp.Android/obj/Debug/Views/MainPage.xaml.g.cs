@@ -13,7 +13,8 @@
 namespace TPTInfoApp.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Harma\\source\\repos\\TPTInfoApp\\TPTInfoApp\\TPTInfoApp\\Views\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Joose\\Desktop\\TPTInfoApp-master\\TPTInfoApp\\TPTInfoApp\\Views\\MainPage.xam" +
+        "l")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
