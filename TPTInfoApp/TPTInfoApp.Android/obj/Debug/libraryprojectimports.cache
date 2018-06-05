@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>obj\Debug\lp\29\jl\arch-core-common.jar</Jar>
-    <Jar>obj\Debug\lp\30\jl\arch-lifecycle-common.jar</Jar>
     <Jar>C:\Users\Joose\Desktop\TPTInfoApp-master\TPTInfoApp\TPTInfoApp.Android\obj\Debug\lp\1\jl\formsviewgroup.jar</Jar>
     <Jar>C:\Users\Joose\Desktop\TPTInfoApp-master\TPTInfoApp\TPTInfoApp.Android\obj\Debug\lp\10\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Joose\Desktop\TPTInfoApp-master\TPTInfoApp\TPTInfoApp.Android\obj\Debug\lp\11\jl\bin\classes.jar</Jar>
